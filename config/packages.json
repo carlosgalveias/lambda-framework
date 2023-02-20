@@ -1,0 +1,53 @@
+{
+  "dependencies":
+  {
+    "aws-sdk": "^2.1296.0",
+    "csvtojson": "^2.0.10",
+    "dotenv": "^16.0.3",
+    "es6-promise-pool": "^2.5.0",
+    "fs-extra": "^11.1.0",
+    "ioredis": "^5.2.5",
+    "json-orm": "0.0.20",
+    "jsonwebtoken": "^9.0.0",
+    "mime-types": "^2.1.35",
+    "moment": "^2.29.4",
+    "mssql": "^9.1.0",
+    "mysql2": "^3.0.1",
+    "natural": "^6.1.2",
+    "object-sizeof": "^1.6.3",
+    "pluralize": "^8.0.0",
+    "qs": "^6.11.0",
+    "redis": "^4.5.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.2",
+    "rimraf": "^4.1.1",
+    "sails-mysql": "^3.0.0",
+    "sails-postgresql": "git+https://github.com/carlosgalveias/sails-postgresql.git#node18",
+    "sharp": "^0.31.3",
+    "systeminformation": "^5.17.3",
+    "uuid": "^9.0.0",
+    "vm2": "^3.9.13",
+    "waterline": "^0.12.2",
+    "xml2js": "^0.4.23",
+    "xml2json": "^0.12.0"
+  },
+  "devDependencies":
+  {
+    "body-parser": "^1.20.1",
+    "eslint": "^8.32.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "express": "^4.18.2",
+    "jshint": "^2.13.6",
+    "mocha": "^10.2.0",
+    "nyc": "^15.1.0",
+    "prettier-eslint": "^15.0.1",
+    "sails-memory": "^0.10.7",
+    "semistandard": "^16.0.1",
+    "should": "*"
+  }
+}
